@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CodeMakeGood</title>
+    <title>Code Make Good</title>
     <link>example.com/</link>
-    <description>Recent content on CodeMakeGood</description>
+    <description>Recent content on Code Make Good</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018 Tom Armstrong</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 May 2018 18:51:39 +1000</lastBuildDate>
     
 	<atom:link href="example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The chances of anything coming from mars..., Jeff Wayne&#39;s War of the Worlds</title>
-      <link>example.com/blog/the-chances-of-anything-coming-from-mars/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>It starts</title>
+      <link>example.com/blog/o-hai/</link>
+      <pubDate>Sun, 13 May 2018 18:51:39 +1000</pubDate>
       
-      <guid>example.com/blog/the-chances-of-anything-coming-from-mars/</guid>
-      <description>I&#39;m putting this here, because this blog looks absurd without any content, and because &#34;Jeff Wayne&#39;s Musical War Of The Worlds&#34; is a much-loved part of my childhood.</description>
+      <guid>example.com/blog/o-hai/</guid>
+      <description>Hey, another developer blog! For the curious, this blog is built on Hugo, a fairly nice and easy to use static site generator, using the &#39;Manis&#39; theme (Indonesian for &#39;sweet&#39;) until I build something more personal, and hosted by Netlify.
+Why did I call this blog &#34;Code Make Good&#34;? Because &#34;Tom Armstrong&#34; is a generic enough name that all the clever domain variations are taken, because it seemed like a pity summary of what I aim for in my work, and because naming things is hard.</description>
     </item>
     
   </channel>

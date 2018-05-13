@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About me on CodeMakeGood</title>
+    <title>About me on Code Make Good</title>
     <link>example.com/about/</link>
-    <description>Recent content in About me on CodeMakeGood</description>
+    <description>Recent content in About me on Code Make Good</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2018 Tom Armstrong</copyright>
     <lastBuildDate>Sat, 12 May 2018 18:48:12 +1000</lastBuildDate>
