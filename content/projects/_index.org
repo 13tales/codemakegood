@@ -1,0 +1,9 @@
+---
+title: "Projects"
+date: 2018-05-12T18:47:58+10:00
+menu: "main"
+---
+
+Nothing here yet :(
+
+I'm currently polishing some of my side projects up for public consumption. I don't have significant open source contributions, but feel free to take a look at [[https://github.com/13tales][my github profile]] for some examples of my interests.

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on CodeMakeGood</title>
+    <link>example.com/tags/personal/</link>
+    <description>Recent content in Personal on CodeMakeGood</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2018 Tom Armstrong</copyright>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="example.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The chances of anything coming from mars..., Jeff Wayne&#39;s War of the Worlds</title>
+      <link>example.com/blog/the-chances-of-anything-coming-from-mars/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>example.com/blog/the-chances-of-anything-coming-from-mars/</guid>
+      <description>I&#39;m putting this here, because this blog looks absurd without any content, and because &#34;Jeff Wayne&#39;s Musical War Of The Worlds&#34; is a much-loved part of my childhood.</description>
+    </item>
+    
+  </channel>
+</rss>

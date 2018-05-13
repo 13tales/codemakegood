@@ -1,0 +1,13 @@
+---
+title: "It starts"
+date: 2018-05-13T18:51:39+10:00
+draft: false
+---
+
+** Hey, another developer blog!
+
+For the curious, this blog is built on [[http://gohugo.io/][Hugo]], a fairly nice and easy to use static site generator, using the '[[https://themes.gohugo.io/theme/manis-hugo-theme/][Manis]]' theme (Indonesian for 'sweet') until I build something more personal, and hosted by [[https://www.netlify.com/][Netlify]].
+
+** Why did I call this blog "Code Make Good"?
+
+Because "Tom Armstrong" is a generic enough name that all the clever domain variations are taken, because it seemed like a pity summary of what I aim for in my work, and because naming things is hard.

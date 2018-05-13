@@ -1,0 +1,18 @@
+---
+title: "About me"
+date: 2018-05-12T18:48:12+10:00
+menu: "main"
+---
+
+* Hi, I'm Tom.
+I'm a software developer from Melbourne, Australia.
+
+Besides holding a computer science degree and working in the software industry, I've worked in various other jobs, including working as a foreign language teacher overseas for several years.
+
+I make software because I love having the capability to effect change and to build experiences for large audiences using code; meaningful and beneficial work is something I aim for, hence the name of this blog.
+
+Professionally, I'm interested in great user experiences and usability, frontend development, and functional programming. I work mostly in Javascript for a living, but have worked in a variety of other languages including C# and Java. For my personal projects, I enjoy programming in functional languages such as Elm and and Clojure.
+
+Outside of my work, I'm an amateur polyglot who loves fiction, interesting video games, and oddball humor.
+
+I'm an experienced public speaker with a background in teaching; if you're looking for a workshop or conference speaker and any of my writing or my personal personal projects pique your interest, then by all means get in touch :)
